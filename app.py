@@ -31,7 +31,7 @@ def predict():
 
 
         prediction = round(prediction[0], 2)
-        prediction=prediction*1000
+        prediction=prediction*1000*73.5
 
         return render_template('price.html', prediction_text="The predicted price of car is Rs. {} ".format(prediction))
 
