@@ -46,7 +46,7 @@ idna==2.10
 imutils==0.5.3
 inflect==4.1.0
 ipykernel==5.3.4
-ipython==7.19.0
+
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jaraco.itertools==5.0.0
